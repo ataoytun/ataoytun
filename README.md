@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## Contributions
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ataoytun/ataoytun/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ataoytun/ataoytun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **ataoytun/ataoytun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
