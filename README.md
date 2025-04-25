@@ -5,10 +5,6 @@
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 - **Databases:** ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-3C873A?style=flat-square&logo=nosql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Projects
-
-[**Nothing to see here**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Just a little surprise! 🎉
-
 ## Contributions
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ataoytun/ataoytun/output/github-contribution-grid-snake.svg#gh-light-mode-only)
